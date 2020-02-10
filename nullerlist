@@ -9,3 +9,67 @@ discoverbags.id@gmail.com // 123.208.21.194 // Marie Donsen //  usernames : muni
 munifmawri@aol.com // 123.208.21.194 // Marie An Donsen // 
 paula@gorboun.com // 162.213.52.109 // Paula Glazer // usernames : glazer // 
 George31@nubtravel.com // 173.175.170.248  // George Linton // usernames : Linton123 //
+
+// List of IPs to disallow, one per line
+37.238.224.44
+151.236.176.253
+37.238.224.91
+191.6.52.19
+14.102.38.37
+177.140.88.117
+177.33.198.18
+177.33.198.221
+191.188.148.137
+189.102.147.154
+89.78.106.181
+45.166.153.78
+212.112.119.170
+177.188.35.87
+47.63.242.212
+179.36.23.7
+103.196.112.13
+115.66.88.55
+173.82.115.95
+31.22.54.91
+157.56.160.42
+77.137.91.7
+91.251.145.79
+
+// List emails and/or domains (starting with "@") and/or TLDs (starting with ".") to disallow, one per line
+
+@coupons2deals.com
+lucasrbohn@gmail.com
+thebeknazar@gmail.com
+r.m.spam@tutamail.com
+@variavista.es
+@freeoftasks.com
+clayoglesby@gmail.com
+javieralvescte@hotmail.com
+lgwmidia@gmail.com
+instantanneo@gmail.com
+moisesgermany3@gmail.com
+numairawan1@gmail.com
+contact@instamanaged.com
+jonathan.vivar2019@gmail.com
+intantanneo@gmail.com
+de_jony_vivar22@hotmail.com.ar
+denivers01@gmail.com
+krischan@deromu.net
+adil.dahnoun@gmail.com
+contact@goodsceptic.com
+alfred@alfred.fm
+oliverwinss@gmail.com
+oliverwinss21@gmail.com
+@homelazi.com
+sportisrael2@gmail.com
+web3azan@gmail.com
+3dcgstore.com
+coupons2deals.com
+variavista.es
+contactinstamanaged.com
+moisesgermany@gmail.com
+contactgoodsceptic.com
+alfredalfred.fm
+homelazi.com
+sportisrael@gmail.com
+web@azangmail.com
